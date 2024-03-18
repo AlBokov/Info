@@ -1,7 +1,7 @@
 ## Как создать Maven-проект в IDEA?
 Открываете IDEA и выбираете New Project:
 
-Screenshot 2023-01-15 at 14 35 55
+![img.png](img.png)Screenshot 2023-01-15 at 14 35 55
 
 В открывшемся окне выбираете:
 
@@ -11,7 +11,7 @@ Screenshot 2023-01-15 at 14 35 55
 в Language выбираете Java
 в Build System выбиратее Maven
 в JDK открываете список и выбираете Download JDK (или сразу 11ю джаву если она уже установлена и отображается в списке)
-image
+image![img_1.png](img_1.png)
 
 Нажимаем на кнопку Create для создания проекта
 
